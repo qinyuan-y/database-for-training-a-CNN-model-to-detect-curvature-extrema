@@ -1,1 +1,1 @@
-# database-for-training-a-CNN-model-to-detect-curvature-extrema
+# database-for-training-CNN-models-to-detect-curvature-extrema
